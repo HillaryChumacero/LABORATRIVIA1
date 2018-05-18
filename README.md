@@ -1,4 +1,5 @@
-#LABORATRIVIA
+LABORATRIVIA
+=============
 
 ![Trivia](img/trivia.jpg)
 
